@@ -1,0 +1,29 @@
+{
+  "name": "drone-dancemat",
+  "version": "0.1.0",
+  "description": "Control your Nodecopter from a Dancemat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrew/drone-dancemat.git"
+  },
+  "keywords": [
+    "nodecopter",
+    "dancing",
+    "controller",
+    "gaming",
+    "ps3"
+  ],
+  "author": "Andrew Nesbitt <andrewnez@gmail.com> (http://andrew.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew/drone-dancemat/issues"
+  },
+  "dependencies": {
+    "dancemat": "~0.1.0",
+    "ar-drone": "~0.1.0"
+  }
+}
