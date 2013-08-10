@@ -2,6 +2,8 @@
 
 Control a Nodecopter with a PS3 Compatible Dancemat and Node.js
 
+Video: http://instagram.com/p/c2VaQoPaD8/
+
 ## Usage
 
     git clone https://github.com/andrew/drone-dancemat
