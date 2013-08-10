@@ -14,23 +14,23 @@ Connect to wifi on parrot ar drone and dancemat via usb
 
 ## Controls
 
-start   => Takeoff
-select  => Land
+    start   => Takeoff
+    select  => Land
 
-up    => Fly forwards
-left  => Fly left
-right => Fly right
-down  => Fly back
+    up    => Fly forwards
+    left  => Fly left
+    right => Fly right
+    down  => Fly back
 
-cross     => Fly up
-circle    => Fly down
-sqaure    => wave
-triangle  => turnaround
+    cross     => Fly up
+    circle    => Fly down
+    sqaure    => wave
+    triangle  => turnaround
 
-up + down     => Flip forwards
-down + up     => Flip backwards
-right + left  => Flip right
-left + right  => Flip left
+    up + down     => Flip forwards
+    down + up     => Flip backwards
+    right + left  => Flip right
+    left + right  => Flip left
 
 ## Copyright
 
